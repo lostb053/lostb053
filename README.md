@@ -43,7 +43,6 @@ None
 
 ![GitHub followers](https://img.shields.io/github/followers/lostb053?color=aqua&label=Followers&style=for-the-badge)
 ![GitHub User's stars](https://img.shields.io/github/stars/lostb053?affiliations=OWNER&color=aqua&style=for-the-badge)
-![Keybase PGP](https://img.shields.io/keybase/pgp/lostb053?color=aqua&style=for-the-badge)
 
 
 ## 🌐 **Top Languages**
