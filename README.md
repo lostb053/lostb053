@@ -6,6 +6,8 @@
 
 ## 👦 **About me**:
 
+<p align="center"> <a href="https://github.com/lostb053"><img src="https://github-profile-trophy.vercel.app/?username=lostb053&theme=darkhub" alt="lostb053" /></a> </p>
+
 **Languages I currently know :**
 
 None
