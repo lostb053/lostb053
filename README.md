@@ -1,4 +1,4 @@
-# **LostB053** | [![Profile views](https://gpvc.arturio.dev/lostb053)](https://github.com/lostb053)
+# **LostB053**
 
 
 - **Noob dev of [anibot](https://github.com/lostb053/anibot)**
